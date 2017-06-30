@@ -5,9 +5,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Title of Work</title>
+        <title>Title</title>
         <author>Name of Author</author>
-        <editor>Christopher Ell</editor>
+        <editor>Name of Editor</editor>
       </titleStmt>
       <editionStmt>
         <edition>First Edition</edition>
@@ -60,6 +60,7 @@
         <div type="textpart" n="1" xml:id="part1">
           <head>Title of First Part</head>
           <!--Text goes here, according to the conventions laid out elsewhere in these guidelines.-->
+          <p>Here will be the beginning of the actual damn text</p>
         </div>
         <div type="textpart" n="2" xml:id="part2">
           <head>Title of Second Part</head>

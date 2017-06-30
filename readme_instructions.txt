@@ -15,3 +15,7 @@
 	catullus.html line 40 points to the appropriate xml file to render
 	these are the only two files to screw with for other projects; could just create a separate repository, add everything in the training directory, and then rename and edit these two files
 	critical material does not display by default; must click on section in ToC in order to display critical material
+
+Note that git is not necessary for testing
+the template.html can be opened directly from the file system by firefox for a more instantaneous check on how things are working
+for reasons unknown, chrome does not like this (and neither does IE or Edge)
